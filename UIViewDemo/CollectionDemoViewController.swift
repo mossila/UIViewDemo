@@ -14,6 +14,7 @@ class CollectionDemoViewController: UIViewController {
     @IBOutlet weak var collectionView: UICollectionView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        title = NSLocalizedString("Collection", comment: "")
         webUrlToDisplay = webURLs
         // Do any additional setup after loading the view.
         navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .add, target: self, action: #selector(addAction))

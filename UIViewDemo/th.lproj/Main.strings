@@ -1,0 +1,31 @@
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "13d-mr-ehA"; */
+"13d-mr-ehA.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "3Il-qu-fAu"; */
+"3Il-qu-fAu.normalTitle" = "X";
+
+/* Class = "UIButton"; normalTitle = "Solution 1"; ObjectID = "hLq-Gv-tVw"; */
+"hLq-Gv-tVw.normalTitle" = "แบบที่ 1";
+/* Class = "UIButton"; normalTitle = "Solution 2"; ObjectID = "U4d-kG-2pS"; */
+"U4d-kG-2pS.normalTitle" = "แบบที่ 2";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "Ucj-S3-KVo"; */
+"Ucj-S3-KVo.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cgI-FU-Ezu"; */
+"cgI-FU-Ezu.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "cnh-Y2-UsZ"; */
+"cnh-Y2-UsZ.normalTitle" = "X";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "dGe-6s-ZFO"; */
+"dGe-6s-ZFO.text" = "Twitter";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "9zE-cY-L5b"; */
+"9zE-cY-L5b.text" = "Facebook";
+
+
+
+/* Class = "UILabel"; text = "Google"; ObjectID = "htJ-sh-RUp"; */
+"htJ-sh-RUp.text" = "Google";
